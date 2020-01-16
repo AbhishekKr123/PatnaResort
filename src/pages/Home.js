@@ -17,6 +17,14 @@ const Home = () => {
       </Hero>
       <Services />
       <FeaturedRooms />
+      <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Explicabo qui
+        omnis eligendi perferendis repellat ullam est consectetur. Commodi quis
+        aperiam cumque praesentium deserunt. Dolorem dolores assumenda ut
+        similique tempora quibusdam quos. Ab non, magnam vitae numquam
+        doloremque harum, neque veritatis ex ea esse tempore! Voluptas quas quis
+        ab odit neque?
+      </p>
     </>
   );
 };
